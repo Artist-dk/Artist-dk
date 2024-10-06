@@ -2,43 +2,43 @@
 <h1 align="center">Hello, I'm Digambar Kumbhar 👋</h1>
 <h3 align="center">Computer Engineer | Cybersecurity Enthusiast | Artist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Artist-dk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Artist-dk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github-profile-trophy.vercel.app/?username=Artist-dk">
     <img src="https://github-profile-trophy.vercel.app/?username=Artist-dk" alt="GitHub trophies" />
   </a> 
 </p>
 
-- 🔭 Currently working on a project called [Study Circle](https://github.com/Artist-dk/project-studyCircle), focused on **Cybersecurity**.
-- 🌱 Actively learning and expanding my skills in **Cybersecurity**.
-- 👯 Open to collaborating on projects related to **Cybersecurity** and **Web Technologies**.
-- 👨‍💻 Check out my projects and contributions: [GitHub Repositories](https://github.com/Artist-dk?tab=repositories).
-- 📝 I write technical articles and notes. Explore them [here](https://github.com/Artist-dk/notes).
-- 💬 Feel free to ask me about **Web Technologies**, **Java**, and **Python**.
-- 📫 Connect with me on Instagram: [@artist.dk_](https://www.instagram.com/artist.dk_/)
+<p align="center">Currently working on a project called <a href="https://github.com/Artist-dk/project-studyCircle">StudyCircle</a></p>
+<p align="center"> Actively learning and expanding my skills in <b>Cybersecurity</b>.</p>
+<p align="center"> Open to collaborating on projects related to <b>Cybersecurity</b> and <b>Web Technologies</b>.</p>
+<p align="center"> Check out my projects and contributions: <a href="https://github.com/Artist-dk?tab=repositories" >GitHub Repositories</a>.</p>
+<p align="center"> I write technical articles and notes. Explore them <a href="https://github.com/Artist-dk/notes">here</a>.</p>
+<p align="center"> Feel free to ask me about <b>Web Technologies</b>, <b>Java</b>, and <b>Python</b>.</p>
+<p align="center"> Connect with me on Instagram: <a href="https://www.instagram.com/artist.dk_/">@artist.dk_</a></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/digambar-kumbhar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Digambar Kumbhar" height="30" width="40" />
-  </a>
-  <span> Let's connect on LinkedIn for professional networking! </span>
+  </a><br>
+  <em> Let's connect on LinkedIn for professional networking! </em>
   <br><br>
   <a href="https://instagram.com/artist.dk_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @artist.dk_" height="30" width="40" />
-  </a>
-  <span> Follow me on Instagram for insights into my artistic journey. </span>
+  </a><br>
+  <em> Follow me on Instagram for insights into my artistic journey. </em>
   <br><br>
   <a href="https://www.hackerrank.com/digambarckumbha2" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - digambarckumbha2" height="30" width="40" />
-  </a>
-  <span> Check out my HackerRank profile for coding challenges and solutions. </span>
+  </a><br>
+  <em> Check out my HackerRank profile for coding challenges and solutions. </em>
   <br><br>
   <a href="https://www.leetcode.com/digambarckumbhar299" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - digambarckumbhar299" height="30" width="40" />
-  </a>
-  <span> Visit my LeetCode profile for algorithm and problem-solving practice. </span>
+  </a><br>
+  <em> Visit my LeetCode profile for algorithm and problem-solving practice. </em>
 </p>
 
 
