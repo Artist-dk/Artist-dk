@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritst-dk&label=Profile%20views&color=0e75b6&style=flat" alt="aritst-dk" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritst-dk" alt="aritst-dk" /></a> </p>
+
 - 🔭 I’m currently working on [Study Circle](https://github.com/Artist-dk/project-studyCircle)
 
 - 🌱 I’m currently learning **Cyber Security**
@@ -33,6 +35,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritst-dk&show_icons=true&locale=en&layout=compact" alt="aritst-dk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritst-dk&show_icons=true&locale=en" alt="aritst-dk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritst-dk&" alt="aritst-dk" /></p>
 
 
 <!--
