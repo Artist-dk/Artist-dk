@@ -18,13 +18,27 @@
 - 📫 Connect with me on Instagram: [@artist.dk_](https://www.instagram.com/artist.dk_/)
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/digambar-kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digambar-kumbhar" height="30" width="40" /></a>
-<a href="https://instagram.com/artist.dk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artist.dk_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/digambarckumbha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="digambarckumbha2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/digambarckumbhar299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="digambarckumbhar299" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/digambar-kumbhar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Digambar Kumbhar" height="30" width="40" />
+  </a>
+  <span> Let's connect on LinkedIn for professional networking! </span>
+  <br><br>
+  <a href="https://instagram.com/artist.dk_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @artist.dk_" height="30" width="40" />
+  </a>
+  <span> Follow me on Instagram for insights into my artistic journey. </span>
+  <br><br>
+  <a href="https://www.hackerrank.com/digambarckumbha2" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - digambarckumbha2" height="30" width="40" />
+  </a>
+  <span> Check out my HackerRank profile for coding challenges and solutions. </span>
+  <br><br>
+  <a href="https://www.leetcode.com/digambarckumbhar299" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - digambarckumbhar299" height="30" width="40" />
+  </a>
+  <span> Visit my LeetCode profile for algorithm and problem-solving practice. </span>
 </p>
 
 
