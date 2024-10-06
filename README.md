@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHe12lCfsLkDQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707997107115?e=1733961600&v=beta&t=BOD3WMrCs2sJIHJrGT6gCgcypYBXWwVqPPuuM9xeyTM" alt="banner" />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQHe12lCfsLkDQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707997107115?e=1733961600&v=beta&t=BOD3WMrCs2sJIHJrGT6gCgcypYBXWwVqPPuuM9xeyTM" alt="banner" />
 <h1 align="center">Hello, I'm Digambar Kumbhar 👋</h1>
 <h3 align="center">Computer Engineer | Cybersecurity Enthusiast | Artist</h3>
 
@@ -18,11 +18,14 @@
 <p align="center"> Feel free to ask me about <b>Web Technologies</b>, <b>Java</b>, and <b>Python</b>.</p>
 <p align="center"> Connect with me on Instagram: <a href="https://www.instagram.com/artist.dk_/">@artist.dk_</a></p>
 
-<h3 align="left">Connect with me:</h3>
+<br />
+<hr />
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/digambar-kumbhar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Digambar Kumbhar" height="30" width="40" />
-  </a><br>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Digambar Kumbhar" height="50" width="50" />
+  </a>
+  <br>
   <em> Let's connect on LinkedIn for professional networking! </em>
   <br><br>
   <a href="https://instagram.com/artist.dk_" target="_blank">
@@ -49,8 +52,10 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<br />
+<hr />
+<h2 align="center">Languages and Tools:</h2>
+<table align="center">
   <tr>
     <th>Logo</th>
     <th>Language/Tool</th>
