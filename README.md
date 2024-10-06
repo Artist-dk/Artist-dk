@@ -17,7 +17,6 @@
 - 💬 Feel free to ask me about **Web Technologies**, **Java**, and **Python**.
 - 📫 Connect with me on Instagram: [@artist.dk_](https://www.instagram.com/artist.dk_/)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/digambar-kumbhar" target="_blank">
