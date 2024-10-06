@@ -29,17 +29,17 @@
   <em> Let's connect on LinkedIn for professional networking! </em>
   <br><br>
   <a href="https://instagram.com/artist.dk_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @artist.dk_" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @artist.dk_" height="50" width="50" />
   </a><br>
   <em> Follow me on Instagram for insights into my artistic journey. </em>
   <br><br>
   <a href="https://www.hackerrank.com/digambarckumbha2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - digambarckumbha2" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - digambarckumbha2" height="50" width="50" />
   </a><br>
   <em> Check out my HackerRank profile for coding challenges and solutions. </em>
   <br><br>
   <a href="https://www.leetcode.com/digambarckumbhar299" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - digambarckumbhar299" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - digambarckumbhar299" height="50" width="50" />
   </a><br>
   <em> Visit my LeetCode profile for algorithm and problem-solving practice. </em>
 </p>
